@@ -1,2 +1,2 @@
-# yangles.github.io
+# angularmix.github.io
 Organzation Web Site
