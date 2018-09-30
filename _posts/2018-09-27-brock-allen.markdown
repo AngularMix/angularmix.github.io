@@ -2,7 +2,6 @@
 layout: post
 title:  "Brock Allen"
 date:   2018-09-27 11:48:33 +0400
-categories: Security
 expertise: Security Expert
 ---
 

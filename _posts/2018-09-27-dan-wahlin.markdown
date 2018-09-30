@@ -2,7 +2,6 @@
 layout: post
 title:  "Dan Wahlin"
 date:   2018-09-27 11:48:33 +0400
-categories: Front End
 expertise: JavaScript & C# Expert
 ---
 

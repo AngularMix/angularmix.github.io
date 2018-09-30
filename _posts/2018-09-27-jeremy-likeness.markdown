@@ -2,7 +2,6 @@
 layout: post
 title:  "Jeremy Likeness"
 date:   2018-09-27 11:48:33 +0400
-categories: Backend
 expertise: Azure Advocate
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Zoiner Tejada"
 date:   2018-09-27 11:48:33 +0400
-categories: .NET
 expertise: Azure Architect
 ---
 

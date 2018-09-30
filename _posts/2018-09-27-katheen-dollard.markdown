@@ -2,7 +2,6 @@
 layout: post
 title:  "Kathleen Dollard"
 date:   2018-09-27 11:48:33 +0400
-categories: Front End
 expertise: C# Expert
 ---
 

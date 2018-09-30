@@ -2,7 +2,6 @@
 layout: post
 title:  "Robert Green"
 date:   2018-09-27 11:48:33 +0400
-categories: .NET
 expertise: Developer Tools
 ---
 
