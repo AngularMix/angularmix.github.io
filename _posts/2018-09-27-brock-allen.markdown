@@ -5,7 +5,7 @@ date:   2018-09-27 11:48:33 +0400
 expertise: Security Expert
 ---
 
-Brock is a renowned speaker...
+**Brock** is a renowned speaker...
 
 Here are links to his presentation materials:
 
