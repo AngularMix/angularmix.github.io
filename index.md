@@ -5,4 +5,4 @@
 layout: home
 ---
 
-[AngularMix]() is proud to announce the following world-renowned speakers for its 2018 conference held in Orlando, Fl, Oct 10 -12th, 2018
+[AngularMix]() is proud to provide the following speaker mateiral from its 2018 conference held in Orlando, Fl, Oct 10 -12th, 2018
