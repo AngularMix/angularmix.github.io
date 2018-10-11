@@ -9,3 +9,5 @@ Dan Wahlin (Microsoft Most Valuable Professional for ASP.NET and XML Web Service
 
 Here are links to his presentation materials:
 
+- [Playing in the Sandbox with Angular Playground](https://codewithdan.me/ng-playground)
+- [Angular Architecture](http://codewithdan.me/angular-architecture )
