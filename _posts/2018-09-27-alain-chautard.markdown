@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Alain Chautardf"
+title:  "Alain Chautard"
 date:   2018-09-27 11:48:33 +0400
 expertise: Google Developer Expert
 ---
