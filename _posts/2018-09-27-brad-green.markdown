@@ -10,4 +10,4 @@ Twitter: @bradlygreen
 
 Here are links to his presentation material:
 
-- [AngularMix Keynote](https://devintxcontent.blob.core.windows.net/showcontent/AngularMix%20Presentations%202018/Angular%20Mix%20Keynote%20-%20Brad%20Green.pdf)
+- [AngularMix Keynote](https://devintxcontent.blob.core.windows.net/showcontent/AngularMix%20Presentations%202018/AngularMix%20Keynote%202018%20Public.pdf)
